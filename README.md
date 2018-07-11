@@ -63,10 +63,11 @@ git clone https://github.com/pjreddie/darknet.git
 cd darknet
 // 安裝
 make
+
 ```
 觀察darknet的目錄，會發現一個cfg的目錄，裡面放了很多.cfg檔。
 
-![1](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/Assets/1.png)
+![1](https://github.com/htaiwan/yolo_coreml/blob/master/Assets/1.png)
 
 安裝遇到的雷
 	
